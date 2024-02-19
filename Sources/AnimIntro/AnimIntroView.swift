@@ -95,7 +95,7 @@ public struct AnimIntroView: View {
                             .scaledToFit()
                             .frame(width: 30)
                         
-                        Text("GO_!")
+                        Text("GO__!")
                             .font(.title3)
                             .bold()
                             .foregroundStyle(.white)
